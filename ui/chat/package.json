@@ -13,7 +13,7 @@
   "dependencies": {
     "@homunculus/api": "workspace:*",
     "@homunculus/core": "workspace:*",
-    "@assistant-ui/react": "^0.10.26",
+    "@assistant-ui/react": "^0.11.4",
     "@assistant-ui/react-ai-sdk": "^0.10.16",
     "@assistant-ui/react-markdown": "^0.10.6",
     "@assistant-ui/react-ui": "^0.1.8",
